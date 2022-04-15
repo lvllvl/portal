@@ -6,6 +6,10 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
+import { Amplify } from 'aws-amplify';
+// import awsExports from './aws-exports';
+// Amplify.configure(awsExports);
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
