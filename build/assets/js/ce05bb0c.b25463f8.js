@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportal_apr_13=self.webpackChunkportal_apr_13||[]).push([[1683],{3774:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"greetings","count":1,"permalink":"/blog/tags/greetings"}')}}]);
